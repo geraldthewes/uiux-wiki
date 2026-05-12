@@ -38,20 +38,20 @@ Each markdown file represents a coherent document on a specific topic, making it
 ## Directory Structure
 
 ### Core Source Collections
-- [`nn-g/`](./nn-g/) - Nielsen Norman Group articles and study guides
-- [`laws-of-ux/`](./laws-of-ux/) - Laws of UX by Jon Yablonski
-- [`apple-hig/`](./apple-hig/) - Apple Human Interface Guidelines
-- [`material-design/`](./material-design/) - Google Material Design 3
-- [`ixdf/`](./ixdf/) - Interaction Design Foundation resources
+- [`nn-g/`](./nn-g/README.md) - Nielsen Norman Group articles and study guides
+- [`laws-of-ux/`](./laws-of-ux/README.md) - Laws of UX by Jon Yablonski
+- [`apple-hig/`](./apple-hig/README.md) - Apple Human Interface Guidelines
+- [`material-design/`](./material-design/README.md) - Google Material Design 3
+- [`ixdf/`](./ixdf/README.md) - Interaction Design Foundation resources
 
 ### Topic-Specific Collections
-- [`color/`](./color/) - Color palette, harmony, and accessibility
-- [`typography/`](./typography/) - Font choice, hierarchy, and readability
-- [`aesthetics/`](./aesthetics/) - Visual design principles and HCI best practices
-- [`workflows/`](./workflows/) - Design processes and methodologies
-- [`mood-boards/`](./mood-boards/) - Visual direction and style guides
-- [`conventions/`](./conventions/) - UI patterns and platform conventions
-- [`books/`](./books/) - Summaries of key UX literature
+- [`mood-boards/`](./mood-boards/README.md) - Visual direction and style guides
+- [`conventions/`](./conventions/README.md) - UI patterns and platform conventions
+- [`color/`](./color/README.md) - Color palette, harmony, and accessibility
+- [`typography/`](./typography/README.md) - Font choice, hierarchy, and readability
+- [`aesthetics/`](./aesthetics/README.md) - Visual design principles and HCI best practices
+- [`workflows/`](./workflows/README.md) - Design processes and methodologies
+- [`books/`](./books/README.md) - Summaries of key UX literature
 
 ## Cross-Reference System
 
@@ -69,7 +69,7 @@ Each file includes:
 - Browse by topic using the directory structure
 - Use the search functionality of your editor/IDE
 - Follow cross-references in "See also" sections
-- Consult index files in each directory for overview
+- Consult README files in each directory for overview
 - Trace concepts from theory to application
 
 ### For LLMs/Prompting Applications
@@ -84,9 +84,8 @@ Each file includes:
 To understand usability testing best practices:
 1. Start with [`nn-g/why-test-5-users.md`](./nn-g/why-test-5-users.md) for foundational principles
 2. See related topics in "See also" section ([10 Usability Heuristics](./nn-g/10-usability-heuristics.md), [Empathy Mapping](./nn-g/empathy-mapping.md))
-3. Explore connected concepts like [`laws-of-ux/jakobs-law.md`](./laws-of-ux/jakobs-law.md) for understanding user expectations
-4. Check platform-specific applications in [`apple-hig/`](./apple-hig/) and [`material-design/`](./material-design/)
-5. See practical implementation in [`workflows/`](./workflows/) and [`conventions/`](./conventions/)
+3. Explore connected concepts like [`laws-of-ux/hicks-law.md`](./laws-of-ux/hicks-law.md) for understanding user expectations
+4. Check platform-specific applications in [`apple-hig/`](./apple-hig/README.md) and [`material-design/`](./material-design/README.md))
 
 ## Sources
 
@@ -96,7 +95,7 @@ All content is derived from:
 - Apple Human Interface Guidelines (developer.apple.com/design/human-interface-guidelines)
 - Google Material Design 3 (m3.material.io)
 - Interaction Design Foundation (interaction-design.org)
-- Classic UX literature (referenced in [`books/`](./books/))
+- Classic UX literature (referenced in [`books/`](./books/README.md))
 
 ## Contributing
 
@@ -107,4 +106,4 @@ This wiki follows the Karpathy method - contributions should focus on:
 4. Preserving the educational intent of original materials
 5. Ensuring factual accuracy and proper attribution
 
-Last updated: $(date)
+Last updated: May 12, 2026

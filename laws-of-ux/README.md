@@ -7,16 +7,14 @@ This directory contains structured summaries of Jon Yablonski's Laws of UX, whic
 - [Aesthetic-Usability Effect](./aesthetic-usability-effect.md) - Users perceive aesthetically pleasing designs as more usable
 - [Fitts’s Law](./fitts-law.md) - Time to acquire a target depends on distance and size
 - [Hick’s Law](./hicks-law.md) - Decision time increases with number and complexity of choices
-- [Jakob’s Law](./jakobs-law.md) - Users prefer interfaces that work like familiar ones
-- [Miller’s Law](./millers-law.md) - People can keep 7±2 items in working memory
 
 ## See Also
 
 ### Related Topics in This Wiki
-- **Usability Principles**: Connects to [NN/g heuristics](../nn-g/) like Consistency and Standards, Error Prevention
-- **Cognitive Psychology**: See [Aesthetics](../aesthetics/) for Gestalt principles, cognitive load
-- **Design Patterns**: See [Conventions](../conventions/) for practical implementations
-- **Platform Applications**: See [Apple HIG](../apple-hig/) and [Material Design](../material-design/) for examples
+- **Usability Principles**: Connects to [NN/g heuristics](../nn-g/README.md) like Consistency and Standards, Error Prevention
+- **Cognitive Psychology**: See [Aesthetics](../aesthetics/README.md) for Gestalt principles, cognitive load
+- **Design Patterns**: See [Conventions](../conventions/README.md) for practical implementations
+- **Platform Applications**: See [Apple HIG](../apple-hig/README.md) and [Material Design](../material-design/README.md) for examples
 
 ### Tags
 #psychology #gestalt #cognitive-load #decision-making #memory-laws #ux-laws
