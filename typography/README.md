@@ -14,7 +14,7 @@ This directory contains resources related to typography.
 
 - [Return to main README](../README.md)
 - [Color Theory](../color/README.md)
-- [Visual Design Principles](../aesthetics/README.md)
+- [Visual Design Principles](../aesthetics/visual-design-principles.md)
 
 ## Tags
 

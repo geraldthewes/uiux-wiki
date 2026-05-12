@@ -15,7 +15,7 @@ This directory contains structured summaries of key Nielsen Norman Group article
 ### Related Topics in This Wiki
 - **Usability & Heuristics**: Connects to [Laws of UX](../laws-of-ux/README.md) principles like Jakob's Law, Aesthetic-Usability Effect
 - **Design Process**: See [Workflows](../workflows/README.md) for Design Thinking, Journey Mapping
-- **Visual Design**: See [Aesthetics](../aesthetics/README.md) and [Typography](../typography/README.md) for detailed guidance
+- **Visual Design**: See [Aesthetics](../aesthetics/visual-design-principles.md) and [Typography](../typography/README.md) for detailed guidance
 - **Platform Guidelines**: See [Apple HIG](../apple-hig/README.md) and [Material Design](../material-design/README.md) for implementation
 
 ### Tags

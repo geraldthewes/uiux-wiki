@@ -11,6 +11,7 @@ This directory contains resources related to color.
 ## See Also
 
 - [Return to main README](../README.md)
+- [Visual Design Principles](../aesthetics/visual-design-principles.md)
 
 ## Tags
 

@@ -4,14 +4,14 @@ This directory contains resources related to aesthetics.
 
 ## Files
 
-- [](./&)aesthetics/README
+- [Visual Design Principles](./visual-design-principles.md)
 
 ## See Also
 
 - [Return to main README](../README.md)
 
 ## Tags
-#placeholder
+#visual-design #aesthetics #ui-design
 
 ## How to Use
 Each file in this directory represents a resource on the topic.

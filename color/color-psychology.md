@@ -374,7 +374,7 @@ While some color responses appear to be universal (like responses to brightness)
 - [Color Accessibility](./color-accessibility.md)
 - [Material Design Color](./material-design/color.md)
 - [Apple HIG Color](./apple-hig/color.md)
-- [Visual Design Principles](../aesthetics/README.md)
+- [Visual Design Principles](../aesthetics/visual-design-principles.md)
 - [Branding and Identity](../concepts/branding.md)
 - [Emotional Design](../concepts/emotional-design.md)
 

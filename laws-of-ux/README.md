@@ -12,7 +12,7 @@ This directory contains structured summaries of Jon Yablonski's Laws of UX, whic
 
 ### Related Topics in This Wiki
 - **Usability Principles**: Connects to [NN/g heuristics](../nn-g/README.md) like Consistency and Standards, Error Prevention
-- **Cognitive Psychology**: See [Aesthetics](../aesthetics/README.md) for Gestalt principles, cognitive load
+- **Cognitive Psychology**: See [Aesthetics](../aesthetics/visual-design-principles.md) for Gestalt principles, cognitive load
 - **Design Patterns**: See [Conventions](../conventions/README.md) for practical implementations
 - **Platform Applications**: See [Apple HIG](../apple-hig/README.md) and [Material Design](../material-design/README.md) for examples
 
