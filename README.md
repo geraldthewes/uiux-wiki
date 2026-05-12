@@ -1,55 +1,110 @@
-# UI/UX Design Wiki
+# UI/UX Design Wiki - Karpathy Method Implementation
 
-This wiki contains curated resources on UI/UX design focusing on evidence-based practices, authoritative sources, and practical guidelines for web and mobile design. It follows the Karpathy method of creating LLMs from text corpora by aggregating high-quality information from authoritative sources.
+This wiki implements the [Karpathy method](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) for creating LLMs from text corpora, focusing specifically on UI/UX design resources.
 
-## Structure
+## The Karpathy Method for LLMs from Text Corpora
 
-- **NN/g** - Nielsen Norman Group resources
-- **laws-of-ux** - Laws of UX by Jon Yablonski
-- **apple-hig** - Apple Human Interface Guidelines
-- **material-design** - Google Material Design 3
-- **ixdf** - Interaction Design Foundation resources
-- **books** - Summary of key UX books
-- **color** - Color palette and harmony resources
-- **typography** - Typography and font choice resources
-- **aesthetics** - Aesthetics, usability and HCI best practices
-- **mood-boards** - Mood boards and visual direction
-- **workflows** - Workflows, design process and screen organization
-- **conventions** - Conventions and patterns
+Following Andrej Karpathy's approach to creating LLMs from text:
+1. **Data Collection**: Download lots of text (we've gathered authoritative UI/UX sources)
+2. **Tokenization**: Break text into words/pieces (we've structured content into markdown files with clear headers)
+3. **Model Training**: Train a neural network to predict next tokens (this wiki provides a high-quality corpus for training)
+4. **Sampling**: Generate text by sampling from the model (users can use this wiki for few-shot prompting or fine-tuning)
+
+## Wiki Structure as a Text Corpus
+
+This wiki is organized to serve as a structured text corpus that follows principles for effective LLM training:
+
+### 1. Document Organization
+Each markdown file represents a coherent document on a specific topic, making it easy for an LLM to learn discrete concepts.
+
+### 2. Consistent Formatting
+- Clear hierarchical headers (H1, H2, H3)
+- Standardized sections (Summary, Takeaways, Origins, Applications, See Also)
+- Uniform citation style for sources
+- Cross-references using relative links
+
+### 3. Rich Cross-Referencing
+- Each file includes a "See also" section linking to related topics
+- Tag-based organization in index files
+- Hierarchical directory structure that groups related concepts
+- Explicit connections between principles, laws, and applications
+
+### 4. Metadata and Context
+- Front matter implicit in file structure (directory indicates source/type)
+- Dates and authors preserved where available
+- Clear attribution to original sources
+- Version control through git history
+
+## Directory Structure
+
+### Core Source Collections
+- [`nn-g/`](./nn-g/) - Nielsen Norman Group articles and study guides
+- [`laws-of-ux/`](./laws-of-ux/) - Laws of UX by Jon Yablonski
+- [`apple-hig/`](./apple-hig/) - Apple Human Interface Guidelines
+- [`material-design/`](./material-design/) - Google Material Design 3
+- [`ixdf/`](./ixdf/) - Interaction Design Foundation resources
+
+### Topic-Specific Collections
+- [`color/`](./color/) - Color palette, harmony, and accessibility
+- [`typography/`](./typography/) - Font choice, hierarchy, and readability
+- [`aesthetics/`](./aesthetics/) - Visual design principles and HCI best practices
+- [`workflows/`](./workflows/) - Design processes and methodologies
+- [`mood-boards/`](./mood-boards/) - Visual direction and style guides
+- [`conventions/`](./conventions/) - UI patterns and platform conventions
+- [`books/`](./books/) - Summaries of key UX literature
+
+## Cross-Reference System
+
+Each file includes:
+- **Clear title** as H1 header
+- **Summary section** with core concept
+- **Structured content** with consistent headings
+- **See also** section linking to 3-5 related topics
+- **Tag implications** through directory placement and explicit mentions
+- **Source attribution** with links to original material
+
+## How to Use This Wiki
+
+### For Humans Learning UI/UX
+- Browse by topic using the directory structure
+- Use the search functionality of your editor/IDE
+- Follow cross-references in "See also" sections
+- Consult index files in each directory for overview
+- Trace concepts from theory to application
+
+### For LLMs/Prompting Applications
+- Treat each markdown file as a document in the corpus
+- Use directory structure as categorical cues (`nn-g/` indicates NN/g source)
+- Leverage consistent formatting for tokenization
+- Follow the tagging system for concept-based retrieval
+- Use cross-references to build associative memory
+
+## Example Learning Path
+
+To understand usability testing best practices:
+1. Start with [`nn-g/why-test-5-users.md`](./nn-g/why-test-5-users.md) for foundational principles
+2. See related topics in "See also" section ([10 Usability Heuristics](./nn-g/10-usability-heuristics.md), [Empathy Mapping](./nn-g/empathy-mapping.md))
+3. Explore connected concepts like [`laws-of-ux/jakobs-law.md`](./laws-of-ux/jakobs-law.md) for understanding user expectations
+4. Check platform-specific applications in [`apple-hig/`](./apple-hig/) and [`material-design/`](./material-design/)
+5. See practical implementation in [`workflows/`](./workflows/) and [`conventions/`](./conventions/)
 
 ## Sources
 
-Based on the Karpathy method of creating LLMs from text corpora, this wiki aggregates information from:
+All content is derived from:
+- Nielsen Norman Group (nngroup.com)
+- Laws of UX (lawsofux.com)
+- Apple Human Interface Guidelines (developer.apple.com/design/human-interface-guidelines)
+- Google Material Design 3 (m3.material.io)
+- Interaction Design Foundation (interaction-design.org)
+- Classic UX literature (referenced in [`books/`](./books/))
 
-1. Nielsen Norman Group (nngroup.com)
-2. Laws of UX (lawsofux.com)
-3. Apple Human Interface Guidelines (developer.apple.com/design/human-interface-guidelines)
-4. Google Material Design 3 (m3.material.io)
-5. Interaction Design Foundation (interaction-design.org)
-6. Classic UX books
-7. Topic-specific resources
+## Contributing
 
-## How to Use
-
-Each directory contains markdown files with information extracted from the respective sources. The wiki is designed to be used as a knowledge base for UI/UX design principles, best practices, and guidelines.
-
-### Karpathy Method for Creating LLMs from Text Corpora
-
-Following Andrej Karpathy's approach to creating LLMs:
-1. **Data Collection**: Gather high-quality, authoritative sources
-2. **Data Processing**: Extract and organize relevant information
-3. **Tokenization**: Break down content into meaningful chunks
-4. **Training**: Use the corpus to train or fine-tune models
-5. **Evaluation**: Test the model's understanding of UI/UX concepts
-
-This wiki serves as step 1-2 of that process: collecting and processing high-quality UI/UX documentation into a structured format that can be used for training or prompting LLMs.
-
-## Recommended Learning Path
-
-1. Start with NN/g UX Basics or Web UX study guide + Laws of UX site
-2. Dive into Apple HIG or Material Design for concrete examples/components
-3. Read *The Design of Everyday Things* + *Laws of UX* book
-4. Explore IxDF literature or specific NN/g guides (Visual Design, IA, Psychology)
-5. Apply with mood boards → style guide → prototypes, testing via NN/g methods
+This wiki follows the Karpathy method - contributions should focus on:
+1. Adding high-quality, authoritative sources
+2. Maintaining clear, structured formatting
+3. Creating meaningful cross-references
+4. Preserving the educational intent of original materials
+5. Ensuring factual accuracy and proper attribution
 
 Last updated: $(date)
