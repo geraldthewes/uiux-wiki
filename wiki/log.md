@@ -16,3 +16,4 @@
 ## [2026-05-12] ingest | Incorporated Typography: Basics, Font Pairing, Readability/Legibility, Hierarchy, Web Typography
 ## [2026-05-12] ingest | Incorporated Workflows: Design Thinking
 ## [2026-05-12] ingest | Incorporated all remaining raw source files into the wiki
+## [2026-05-14] ingest | Splash pages & launch screens — added raw source, sources/splash-pages-overview.md, topics/splash-screens.md covering NN/g anti-pattern guidance, Apple HIG launch screens, Android splash API, Smashing Magazine, and Eleken practitioner guide

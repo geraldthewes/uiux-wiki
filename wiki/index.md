@@ -100,6 +100,9 @@ Step-by-step instructions for conducting heuristic evaluations of interfaces
 ### [NN/g: Why Test with 5 Users](./sources/nn-g-why-test-5-users.md)
 Explanation of why testing with 5 users is sufficient for usability studies
 
+### [Splash Pages & Launch Screens Overview](./sources/splash-pages-overview.md)
+Synthesis of authoritative resources on web splash pages and mobile app launch screens — when to use, when to avoid, and platform-specific design rules
+
 ## Concepts
 
 ### [Usability Testing](./concepts/usability-testing.md)
@@ -176,6 +179,9 @@ Mathematical basis for testing with 5 users in usability studies
 
 ## Topics
 
+### [Splash Screens & Launch Screens](./topics/splash-screens.md)
+When to use web splash pages vs. mobile launch screens, design rules, common failure modes, and platform-specific guidance (Apple HIG, Android).
+
 ### [Mobile Navigation](./topics/mobile-navigation.md)
 Patterns and best practices for navigation in mobile applications.
 
@@ -218,4 +224,4 @@ Cognitive scientist and usability expert, co-founder of NN/g.
 ### [Jon Yablonski](./entities/jon-yablonski.md)
 Creator of Laws of UX and product designer.
 
-*Last updated: May 12, 2026 | Source count: 52*
+*Last updated: May 14, 2026 | Source count: 54*
