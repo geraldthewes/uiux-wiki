@@ -17,3 +17,8 @@
 ## [2026-05-12] ingest | Incorporated Workflows: Design Thinking
 ## [2026-05-12] ingest | Incorporated all remaining raw source files into the wiki
 ## [2026-05-14] ingest | Splash pages & launch screens — added raw source, sources/splash-pages-overview.md, topics/splash-screens.md covering NN/g anti-pattern guidance, Apple HIG launch screens, Android splash API, Smashing Magazine, and Eleken practitioner guide
+## [2026-05-15] ingest | Wireframing and sketching resources — added raw/wireframing-sketching/ directory with NN/g, IxDF, Smashing Magazine, Figma, and Balsamiq resources; created wiki/sources/wireframing-sketching-resources.md; updated index.md
+## [2026-05-15] ingest | Wireframing best practices — added topics/wireframing-best-practices.md and updated index.md
+## [2026-05-15] concept | Wireframing principles — added concepts/wireframing-principles.md and updated index.md
+## [2026-05-17] ingest | Color selection best practices — added raw/color/color-selection-best-practices.md, sources/color-color-selection-best-practices.md, and updated index.md
+## [2026-05-17] concept | Color selection — added concepts/color-selection.md and updated index.md

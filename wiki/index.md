@@ -43,6 +43,9 @@ Versatile containers for displaying content and actions in Material Design 3
 ### [Material Design: Color](./sources/material-design-color.md)
 Color systems, theming, and accessibility guidelines
 
+### [Considerations to Select the Main Colors for an App](./sources/color-color-selection-best-practices.md)
+Best practices for selecting and structuring limited, systematic color palettes for web applications
+
 ### [Material Design: Layout](./sources/material-design-layout.md)
 Layout principles, spacing, and responsive design guidelines
 
@@ -103,7 +106,13 @@ Explanation of why testing with 5 users is sufficient for usability studies
 ### [Splash Pages & Launch Screens Overview](./sources/splash-pages-overview.md)
 Synthesis of authoritative resources on web splash pages and mobile app launch screens — when to use, when to avoid, and platform-specific design rules
 
+### [Wireframing and Sketching Resources](./sources/wireframing-sketching-resources.md)
+Collection of authoritative resources on best practices for wireframing and sketching UI screens
+
 ## Concepts
+
+### [Wireframing Principles](./concepts/wireframing-principles.md)
+Foundational guidelines for effective wireframing and sketching of UI screens
 
 ### [Usability Testing](./concepts/usability-testing.md)
 Principles and practices for evaluating user interfaces with real users.
@@ -125,6 +134,9 @@ Creating harmonious color combinations for UI/UX
 
 ### [Color Psychology](./concepts/color-psychology.md)
 Emotional and psychological responses to color in design
+
+### [Color Selection](./concepts/color-selection.md)
+Practical process for selecting and structuring limited, systematic color palettes
 
 ### [Typography](./concepts/typography.md)
 Principles of type selection, arrangement, and readability in UI design.
@@ -194,6 +206,9 @@ Strategies for designing helpful error states and recovery paths.
 ### [Onboarding Flows](./topics/onboarding-flows.md)
 Techniques for introducing new users to product functionality.
 
+### [Wireframing Best Practices](./topics/wireframing-best-practices.md)
+Principles and techniques for effective wireframing and sketching of UI screens
+
 ### [Design Thinking](./concepts/design-thinking.md)
 Human-centered approach to innovation and problem-solving
 
@@ -224,4 +239,4 @@ Cognitive scientist and usability expert, co-founder of NN/g.
 ### [Jon Yablonski](./entities/jon-yablonski.md)
 Creator of Laws of UX and product designer.
 
-*Last updated: May 14, 2026 | Source count: 54*
+*Last updated: May 15, 2026 | Source count: 72*
